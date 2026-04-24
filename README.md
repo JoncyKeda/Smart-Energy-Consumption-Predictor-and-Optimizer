@@ -48,4 +48,4 @@ Sample dataset included. You can replace with real-world energy datasets.
 - Deployment on cloud
 
 ## 💡 Author
-Joncy Keda
+Joncy Keda - AI Developer
